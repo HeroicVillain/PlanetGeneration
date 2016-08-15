@@ -1,0 +1,8 @@
+{
+	"Changelist" : 3039270,
+	"BuildId" : "3481adc9-4d2f-4bb5-8441-d579ccea0806",
+	"Modules" : 
+	{
+		"SimplexNoise" : "UE4Editor-SimplexNoise.dll"
+	}
+}
